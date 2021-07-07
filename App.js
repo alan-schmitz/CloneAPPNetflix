@@ -8,7 +8,7 @@ import Home from './src/pages/home/Index';
 
 export default function App() {
   return (
-        //<Logim/>
-        <Home />
+        <Logim/>
+        //<Home />
   );
 }

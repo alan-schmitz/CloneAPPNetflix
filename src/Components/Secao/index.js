@@ -3,7 +3,7 @@ import { Text, View, Image, ScrollView } from 'react-native';
 
 
 import styles from './Styles';
-import catalago from '../../assets/data/catalago';
+
 
 export default function secao () {
     return ( 

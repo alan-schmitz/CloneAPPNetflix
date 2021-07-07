@@ -37,7 +37,6 @@ export default function Home () {
       </View>
       <Secao />
       <Footer/>
-
     </ScrollView> 
     </View>
 
